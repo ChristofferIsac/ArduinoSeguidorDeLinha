@@ -1,4 +1,4 @@
-<img src="https://gist.githubusercontent.com/Uxtraordinario/e24f145840c50591c231a4c842c2512a/raw/9a7984dfd5e5dc98711f7cda949931d5cf1f9cf5/BotArduino.svg">
+<img src="https://gist.githubusercontent.com/ChristofferIsac/e24f145840c50591c231a4c842c2512a/raw/9a7984dfd5e5dc98711f7cda949931d5cf1f9cf5/BotArduino.svg">
 
 # ArduinoSeguidorDeLinha
 
@@ -7,7 +7,7 @@
 > ℹ️ **NOTE:** Projeto desenvolvido em ambiente escolar, como forma de introdução ao uso da robótica
 
 
-<img align="right" width="180px" src="https://gist.githubusercontent.com/Uxtraordinario/6e53e983945621f7ef31beff873b5e0e/raw/81da0ad8192347d21220d779e0f8f0966615e098/ArduinoBot.svg">
+<img align="right" width="180px" src="https://gist.githubusercontent.com/ChristofferIsac/6e53e983945621f7ef31beff873b5e0e/raw/81da0ad8192347d21220d779e0f8f0966615e098/ArduinoBot.svg">
 Este projeto trata do desenvolvimento de um carrinho seguidor de linha utilizando a plataforma Arduino. O objetivo principal é criar um veículo robótico que seja capaz de seguir uma linha preta traçada em um fundo branco, navegando automaticamente pelo percurso definido. Este tipo de projeto é amplamente utilizado em competições de robótica e como uma introdução prática ao mundo da programação e eletrônica.
 
 ## Descrição do Projeto
